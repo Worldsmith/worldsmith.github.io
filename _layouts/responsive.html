@@ -10,8 +10,8 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
 
-        <link rel="stylesheet" href="css/normalize.min.css">
-        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="{{ site.url }}/css/normalize.min.css">
+        <link rel="stylesheet" href="{{ site.url }}/css/main.css">
 
         <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
     </head>
@@ -45,6 +45,16 @@
 				  {{ sidebar | markdownify }}
                 </aside>
 
+				<aside>
+					{{ '## Blog Posts' | markdownify }}
+					<ul>
+					  {% for post in site.posts %}
+						<li>
+						  <a href="{{ post.url }}">{{ post.title }}</a>
+						</li>
+					  {% endfor %}
+					</ul>
+				</aside>
             </div> <!-- #main -->
         </div> <!-- #main-container -->
 
