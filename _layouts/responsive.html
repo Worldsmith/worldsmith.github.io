@@ -25,9 +25,9 @@
                 <h1 class="title">Worldsmith</h1>
                 <nav>
                     <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">Download</a></li>
-                        <li><a href="#">Dev Blog</a></li>
+                        <li><a href="{{site.url}}/">Home</a></li>
+                        <li><a href="{{site.url}}/download.html">Download</a></li>
+                        <li><a href="{{site.url}}/devblog.html">Dev Blog</a></li>
                     </ul>
                 </nav>
             </header>
@@ -41,11 +41,9 @@
                 </article>
 
                 <aside>
-                  {% capture sidebar %}{% include sidebar.md %}{% endcapture %}
-				  {{ sidebar | markdownify }}
-                </aside>
-
-				<aside>
+					{% capture sidebar %}{% include sidebar.md %}{% endcapture %}
+					{{ sidebar | markdownify }}
+			  
 					{{ '## Blog Posts' | markdownify }}
 					<ul>
 					  {% for post in site.posts %}
@@ -54,7 +52,9 @@
 						</li>
 					  {% endfor %}
 					</ul>
-				</aside>
+                </aside>
+
+				
             </div> <!-- #main -->
         </div> <!-- #main-container -->
 
@@ -70,7 +70,7 @@
         <script src="js/main.js"></script>
 
         <script>
-            var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+            var _gaq=[['_setAccount','UA-47464590-1'],['_trackPageview']];
             (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
             g.src='//www.google-analytics.com/ga.js';
             s.parentNode.insertBefore(g,s)}(document,'script'));

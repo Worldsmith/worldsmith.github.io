@@ -1,6 +1,7 @@
 ---
 layout: responsive
 title: Development Update 2
+
 ---
 
 Hey friends
