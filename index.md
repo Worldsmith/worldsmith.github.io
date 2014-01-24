@@ -1,3 +1,8 @@
+---
+layout: default
+title: index
+---
+
 Worldsmith
 ==========
 
