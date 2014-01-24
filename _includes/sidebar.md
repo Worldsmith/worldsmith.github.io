@@ -1,5 +1,5 @@
 ## Getting Started 
-* [Download Worldsmith]({{site.url}}/download.html)
+* [Download Worldsmith]({{site.baseurl}}/download.html)
 * Install and setup
 * Creating a new Addon
 

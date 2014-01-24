@@ -31,7 +31,7 @@ server:      false    # deprecated
 host:        0.0.0.0
 port:        4000
 baseurl:     /WorldSmith
-url:         http://localhost:4000
+url:         http://royawesome.github.io
 lsi:         false
 
 maruku:
