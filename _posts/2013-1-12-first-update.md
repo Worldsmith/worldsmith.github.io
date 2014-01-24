@@ -7,7 +7,7 @@ It's been a few days since I've announced Worldsmith, so I figure I would give a
 
 Custom Units are pretty much done, as they were very easy to add write editors for.  I want to go back and redo how Hero Overrides are handled (they are very badly done), but I'll do that after abilities.  Saving and Loading addons is also done, and I've used Worldsmith to edit some unit properties in Frostivus already.  
 
-Abilities are rockin.  I have a [pretty cool screenshot](http://i.imgur.com/OfrXnCr.png) of the Behavior editor that Quintinity whipped up in like 2 hours.  It's pretty slick and it auto scales based on the number of options you have to select, which is very nice considering AbilityBehavior has 29 possible flags!
+Abilities are rockin.  I have a <a href="http://i.imgur.com/OfrXnCr.png" data-lightbox="image-1" title="My caption">pretty cool screenshot </a> of the Behavior editor that Quintinity whipped up in like 2 hours.  It's pretty slick and it auto scales based on the number of options you have to select, which is very nice considering AbilityBehavior has 29 possible flags!
 
 The last thing to do for Abilities and Items is to implement their triggers (OnCast, OnDamageTaken, etc).  This is kind of the biggest part and I'm already making good progress.
 
