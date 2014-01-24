@@ -25,9 +25,9 @@
                 <h1 class="title">Worldsmith</h1>
                 <nav>
                     <ul>
-                        <li><a href="{{site.baseurl}}/">Home</a></li>
-                        <li><a href="{{site.baseurl}}/download.html">Download</a></li>
-                        <li><a href="{{site.baseurl}}/devblog.html">Dev Blog</a></li>
+                        <li><a href="{{ site.baseurl }}/">Home</a></li>
+                        <li><a href="{{ site.baseurl }}/download.html">Download</a></li>
+                        <li><a href="{{ site.baseurl }}/devblog.html">Dev Blog</a></li>
                     </ul>
                 </nav>
             </header>
@@ -48,7 +48,7 @@
 					<ul>
 					  {% for post in site.posts %}
 						<li>
-						  <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+						  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 						</li>
 					  {% endfor %}
 					</ul>
