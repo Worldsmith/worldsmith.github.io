@@ -22,3 +22,5 @@ I've got some awesome screenshots of progress here:
 I hope to have the first release Thursday or Friday next week.  
 
 You can follow me on Twitter, [@RoyAwesome](http://www.twitter.com/royawesome).  Also, consider [Donating](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=WF8XJ8SVQ9UAU&lc=US&item_name=Garrett%20Fleenor&item_number=Worldsmith&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) to the project, as I'm starting to look into additional hosting for Worldsmith files.  
+
+Also, if you happen to be a halfway decent web developer and are interested in helping out, please send me an email.  This site kinda sucks and I'm bad at web development.  
