@@ -2,8 +2,7 @@
 layout: responsive
 title: The road to release
 ---
-It's been a month since I've started working on Worldsmith, and I'm nearing the first actual release of the Dota 2 editor.  
-
+It's been a month since I've started working on Worldsmith, and I'm nearing the first actual release of my unofficial Dota 2 editor.  
 
 
 
