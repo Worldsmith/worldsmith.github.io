@@ -8,10 +8,10 @@ title: Dev Blog
 ----
 
 {% for post in site.posts %}
-### [{{post.title}}]({{site.baseurl}}{{post.url}})
+### [{{post.title}}]({{ post.url }})
 {{ post.excerpt }}
 
-[Read More...]({{site.baseurl}}{{post.url}})
+[Read More...]({{ post.url }})
 
 ----
 {% endfor %}

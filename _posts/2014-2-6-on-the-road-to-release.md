@@ -6,6 +6,7 @@ title: The road to release
 
 It's been a month since I've started working on Worldsmith, and I'm nearing the first actual release of the Dota 2 editor.  
 
+
 This release is going to be more of a preview of what is possible with Worldsmith, and while it will not let you create new custom maps, it will be a fully featured unit, item, ability, and hero editor.  
 
 With this build, I mostly want to find out how people use Worldsmith and what pitfalls I can fix.  I also want to use the first release to find out where art is needed and to have an easy way to prioritize where icons are needed.
