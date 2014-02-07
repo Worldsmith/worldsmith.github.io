@@ -12,12 +12,11 @@ With this build, I mostly want to find out how people use Worldsmith and what pi
 
 I've got some awesome screenshots of progress here:
 
-<a href="http://i.imgur.com/8H2i3E1.png" data-lightbox="image-1" title="My caption"> <img src="http://i.imgur.com/8H2i3E1.png" width="331" height="200" /> </a>
-<a href="http://i.imgur.com/tMWuGMC.png" data-lightbox="image-1" title="My caption"> <img src="http://i.imgur.com/tMWuGMC.png" width="331" height="200" /> </a>
-<a href="http://i.imgur.com/SPONot3.png" data-lightbox="image-1" title="My caption"> <img src="http://i.imgur.com/SPONot3.png" width="331" height="200" /> </a>
-<a href="http://i.imgur.com/530jFAX.png" data-lightbox="image-1" title="My caption"> <img src="http://i.imgur.com/530jFAX.png" width="331" height="200" /> </a>
-<a href="http://i.imgur.com/Xf3OUC0.png" data-lightbox="image-1" title="My caption"> <img src="http://i.imgur.com/Xf3OUC0.png" width="331" height="200" /> </a>
-<a href="http://i.imgur.com/fQ1udmT.png" data-lightbox="image-1" title="My caption"> <img src="http://i.imgur.com/fQ1udmT.png" width="331" height="200" /> </a>
+<a href="http://i.imgur.com/8H2i3E1.png" data-lightbox="image-1" title="Editing ability actions"> <img src="http://i.imgur.com/8H2i3E1.png" width="331" height="200" /> </a>
+<a href="http://i.imgur.com/tMWuGMC.png" data-lightbox="image-1" title="Changing the target of a spell"> <img src="http://i.imgur.com/tMWuGMC.png" width="331" height="200" /> </a>
+<a href="http://i.imgur.com/LFA7QDw.png" data-lightbox="image-1" title="Swedish translations!"> <img src="http://i.imgur.com/LFA7QDw.png" width="331" height="200" /> </a>
+<a href="http://i.imgur.com/Xf3OUC0.png" data-lightbox="image-1" title="Variable editing"> <img src="http://i.imgur.com/Xf3OUC0.png" width="331" height="200" /> </a>
+<a href="http://i.imgur.com/zacHt0n.png" data-lightbox="image-1" title=""> <img src="http://i.imgur.com/zacHt0n.png" width="331" height="200" /> </a>
 
 I hope to have the first release Thursday or Friday next week.  
 
