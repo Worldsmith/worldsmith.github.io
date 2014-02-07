@@ -12,7 +12,7 @@ With this build, I mostly want to find out how people use Worldsmith and what pi
 
 I've got some awesome screenshots of progress here:
 
-<a href="http://i.imgur.com/beg9tki.png" data-lightbox="image-1" title="My caption"> <img src="http://i.imgur.com/beg9tki.png" width="331" height="200" /> </a>
+<a href="http://i.imgur.com/8H2i3E1.png" data-lightbox="image-1" title="My caption"> <img src="http://i.imgur.com/8H2i3E1.png" width="331" height="200" /> </a>
 <a href="http://i.imgur.com/tMWuGMC.png" data-lightbox="image-1" title="My caption"> <img src="http://i.imgur.com/tMWuGMC.png" width="331" height="200" /> </a>
 <a href="http://i.imgur.com/SPONot3.png" data-lightbox="image-1" title="My caption"> <img src="http://i.imgur.com/SPONot3.png" width="331" height="200" /> </a>
 <a href="http://i.imgur.com/530jFAX.png" data-lightbox="image-1" title="My caption"> <img src="http://i.imgur.com/530jFAX.png" width="331" height="200" /> </a>
