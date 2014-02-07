@@ -9,7 +9,7 @@ title: Dev Blog
 
 {% for post in site.posts %}
 ### [{{post.title}}]({{ post.url }})
-{{ post.excerpt }}
+
 
 [Read More...]({{ post.url }})
 
